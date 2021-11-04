@@ -300,6 +300,7 @@
 				DEVELOPMENT_TEAM = M8KC244ECU;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NamesToFaces/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "App will use your camera to make photos";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,6 +329,7 @@
 				DEVELOPMENT_TEAM = M8KC244ECU;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NamesToFaces/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "App will use your camera to make photos";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
